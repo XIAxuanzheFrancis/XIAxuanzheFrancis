@@ -54,8 +54,9 @@
 </td></tr>
 
 <tr>
-<td style="text-align:left;">
-
+<td>
+<div style="overflow-x: auto; max-width: 100%;">
+ 
 ```mermaid
 mindmap
   root((XIA Xuanzhe))
@@ -85,7 +86,7 @@ mindmap
       Maven
       Tomcat
 ```
-
+</div>
 <img src="img/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 💪 Learning
