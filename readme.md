@@ -54,7 +54,7 @@
 </td></tr>
 
 <tr>
-<td>
+<td style="text-align:left;">
 
 ```mermaid
 mindmap
