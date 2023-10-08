@@ -44,7 +44,7 @@
   
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="img/emgcu.png" />
+<img align="right" width="100" src="img/emgcu.png" />
 
 - [laboratoire EMGCU](https://emgcu.univ-gustave-eiffel.fr/) &emsp; 📌 2023-04-03 —— 2023-08-31
   
@@ -52,12 +52,42 @@
   - Technologies: Qt, C++, Civil engineering knowledge (fatigue, extrapolation, effet...)
 
 </td></tr>
+</table>
 
-<tr>
-<td>
+<div align="center" >
 
-![mindmap](img/mindmap.jpg)
+```mermaid
+mindmap
+  root((XIA Xuanzhe))
+    programme
+      JAVA
+      C++
+      computer vision
+      HTML
+      CSS
+      JavaScript
+      React
+      JavaWeb
+      MySql
+      Maven
+      Tomcat
+    travelling
+      Beijing
+      Xinjiang
+      Guangzhou
+      Wuhan
+      Paris
+      Lyon
+      Toulon
+    read
+      Fiction
+      History
+      Computer Technology
+      Biographies
 
+
+```
+</div>
 <img src="img/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 💪 Learning
@@ -113,6 +143,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XIAXuanzheFrancis&theme=dark&hide_border=true" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=XIAXuanzheFrancis&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-</td></tr>
-</table>
+
+
 
