@@ -59,18 +59,6 @@
 ```mermaid
 mindmap
   root((XIA Xuanzhe))
-    programme
-      JAVA
-      C++
-      computer vision
-      HTML
-      CSS
-      Javascript
-      React
-      JavaWeb
-      MySql
-      Maven
-      Tomcat
     travelling
         Beijing
         Xinjiang
@@ -84,6 +72,18 @@ mindmap
         Biographies of Famous People
         Computer Technology
         Fiction
+    programme
+      JAVA
+      C++
+      computer vision
+      HTML
+      CSS
+      Javascript
+      React
+      JavaWeb
+      MySql
+      Maven
+      Tomcat
 ```
 
 <img src="img/man.png" alt="Man Lifting Weights" width="250" height="250" />
