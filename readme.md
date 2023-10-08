@@ -55,38 +55,9 @@
 
 <tr>
 <td>
-<div style="overflow-x: auto; max-width: 100%;">
- 
-```mermaid
-mindmap
-  root((XIA Xuanzhe))
-    travelling
-        Beijing
-        Xinjiang
-        Guangzhou
-        Wuhan
-        Paris
-        Lyon
-        Toulon
-    read
-        Chinese History
-        Biographies of Famous People
-        Computer Technology
-        Fiction
-    programme
-      JAVA
-      C++
-      computer vision
-      HTML
-      CSS
-      Javascript
-      React
-      JavaWeb
-      MySql
-      Maven
-      Tomcat
-```
-</div>
+
+![mindmap](img/mindmap.jpg)
+
 <img src="img/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 💪 Learning
