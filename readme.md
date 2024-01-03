@@ -67,7 +67,7 @@ mindmap
       CSS
       JavaScript
       React
-      JavaWeb
+      SpringBoot
       MySql
       Maven
       Tomcat
