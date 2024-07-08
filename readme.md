@@ -33,7 +33,7 @@
 <br>
 &emsp;&emsp;Passionate about computer science and aspire to be
 <br>
-&emsp;&emsp;a great developer.
+&emsp;&emsp;a great developer and data analyst.
 <br><br>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
@@ -44,12 +44,23 @@
   
 ### 🏢 Work Experience
 
-<img align="right" width="100" src="img/emgcu.png" />
+<img align="right" width="200" src="img/emgcu.png" />
 
 - [laboratoire EMGCU](https://emgcu.univ-gustave-eiffel.fr/) &emsp; 📌 2023-04-03 —— 2023-08-31
   
   - Internship Theme: Testing and validation of structural assessment software 
   - Technologies: Qt, C++, Civil engineering knowledge (fatigue, extrapolation, effet...)
+
+<img align="right" width="200" src="img/LIGM.jpg" />
+
+- [Laboratoire d'Informatique Gaspard-Monge - UMR CNRS 8049](https://siteigm.univ-mlv.fr/) &emsp; 📌 2024-04-15 —— 2024-09-15
+
+  - Communicate with sensor suppliers, collect sensor information, select appropriate sensors and master sensor deployment methods.
+  - Analyze sensor data
+  - Create deep learning models to make predictions on data
+  - Compare and summarize model performance
+  - Write conference paper
+
 
 </td></tr>
 </table>
