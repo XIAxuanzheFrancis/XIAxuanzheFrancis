@@ -12,7 +12,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://xiaxuanzhefrancis.github.io/"><img src="https://img.shields.io/badge/Website-Blog-blue" /></a>&emsp;
+<!--     <a href="https://xiaxuanzhefrancis.github.io/"><img src="https://img.shields.io/badge/Website-Blog-blue" /></a>&emsp; -->
 
   </div>
 </div>
