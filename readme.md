@@ -3,8 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://xiaxuanzhefrancis.github.io/">
-      <
-img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);La persévérance est la clé du succès!&center=true&size=17" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);La persévérance est la clé du succès!&center=true&size=17" alt="Typing SVG" />
     </a>
   </div>
 
@@ -37,7 +36,10 @@ img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=4
 &emsp;&emsp;a great developer and data analyst.
 <br><br>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+</td></tr>
 
+<tr><td>
+  
 ### 📞contact
 <p>&emsp;&emsp;1. xiaxingba@gmail.com</p>
 <p>&emsp;&emsp;2. xuanzhe.xia@outlook.com</p>
