@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://xiaxuanzhefrancis.github.io/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);La persévérance est la clé du succès!&center=true&size=17" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=La+pers%C3%A9v%C3%A9rance+est+la+cl%C3%A9+du+succ%C3%A8s!" alt="Typing SVG" /></a>
     </a>
   </div>
 
