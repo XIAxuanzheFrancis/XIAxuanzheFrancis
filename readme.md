@@ -41,13 +41,9 @@
 <tr><td>
   
 ### 📞contact
-<p>&emsp;&emsp;1. xiaxingba@gmail.com</p>
-<p>&emsp;&emsp;2. xuanzhe.xia@outlook.com</p>
-<p>&emsp;&emsp;3. 3058634081@qq.com</p>
-</td></tr>
 
-<tr>
-<td>
+<p>xuanzhe.xia@outlook.com</p>
+
   
 ### 🏢 Work Experience
 
