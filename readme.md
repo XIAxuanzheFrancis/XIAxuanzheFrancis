@@ -47,12 +47,19 @@
   
 ### 🏢 Work Experience
 
-<img align="right" width="200" src="img/emgcu.png" />
+<img align="right" width="200" src="https://liris.cnrs.fr/sites/default/files/logo_liris_160_0.png" />
 
-- [laboratoire EMGCU](https://emgcu.univ-gustave-eiffel.fr/) &emsp; 📌 2023-04-03 —— 2023-08-31
-  
-  - Internship Theme: Testing and validation of structural assessment software 
-  - Technologies: Qt, C++, Civil engineering knowledge (fatigue, extrapolation, effet...)
+- [Laboratoire d'InfoRmatique en Image et Systèmes d'information)](https://liris.cnrs.fr/) &emsp; 📌 2025-10-27 —— Present
+  - PhD research topic: Towards Privacy and Fairness in Federated Learning for Digital Health
+  - Research Learnings: [PhD Learning Notes](https://my-website.com/phd-learnings) _(page under maintenance)_
+
+
+<img align="right" width="200" src="img/insacvl.svg" />
+
+- [Institut National des Sciences Appliquées Centre Val de Loire](https://www.insa-centrevaldeloire.fr/fr) &emsp; 📌 2025-04-02 —— 2025-09-30
+  - Internship Theme: Privacy Preservation in Federated Learning  
+  - Technologies: Python, PyTorch, Machine Learning, Federated Learning(https://github.com/makgyver/fluke), Differential Privacy, Attacks, Zotero
+
 
 <img align="right" width="200" src="img/LIGM.jpg" />
 
@@ -63,6 +70,14 @@
   - Create deep learning models to make predictions on data
   - Compare and summarize model performance
   - Write conference paper
+
+<img align="right" width="200" src="img/emgcu.png" />
+
+- [Laboratoire EMGCU](https://emgcu.univ-gustave-eiffel.fr/) &emsp; 📌 2023-04-03 —— 2023-08-31
+  
+  - Internship Theme: Testing and validation of structural assessment software 
+  - Technologies: Qt, C++, Civil engineering knowledge (fatigue, extrapolation, effet...)
+
 
 
 </td></tr>
@@ -76,15 +91,14 @@ mindmap
     programme
       JAVA
       C++
-      computer vision
-      HTML
-      CSS
-      JavaScript
+      Python
+      ML/FL
+      PowerBI
+      HTML/CSS/JavaScript
       React
       SpringBoot
       MySql
       Maven
-      Tomcat
     travelling
       Beijing
       Xinjiang
