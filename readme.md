@@ -73,7 +73,7 @@
 
 <img align="right" width="200" src="img/emgcu.png" />
 
-- [Laboratoire EMGCU](https://emgcu.univ-gustave-eiffel.fr/) &emsp; 📌 2023-04-03 —— 2023-08-31
+- [Laboratoire Expérimentation et Modélisation du Génie Civil et Urbain](https://emgcu.univ-gustave-eiffel.fr/) &emsp; 📌 2023-04-03 —— 2023-08-31
   
   - Internship Theme: Testing and validation of structural assessment software 
   - Technologies: Qt, C++, Civil engineering knowledge (fatigue, extrapolation, effet...)
