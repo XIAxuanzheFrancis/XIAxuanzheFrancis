@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://xiaxuanzhefrancis.github.io/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=La+pers%C3%A9v%C3%A9rance+est+la+cl%C3%A9+du+succ%C3%A8s!" alt="Typing SVG" /></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=La+pers%C3%A9v%C3%A9rance+est+la+cl%C3%A9+du+succ%C3%A8s!" alt="Typing SVG" />
     </a>
   </div>
 
@@ -165,10 +165,14 @@ mindmap
 
 
 
+<img align="center" height="137px"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XIAXuanzheFrancis&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
-<img align="center" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XIAXuanzheFrancis&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img align="center" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XIAXuanzheFrancis&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XIAXuanzheFrancis&theme=dark&hide_border=true" />
+<img align="center" height="137px"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XIAXuanzheFrancis&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+
+<img align="center"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=XIAXuanzheFrancis&theme=dark&hide_border=true" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=XIAXuanzheFrancis&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
