@@ -163,19 +163,9 @@ mindmap
   </tr>
 </table>
 
-
-
-<img align="center" height="137px"
-  src="https://github-readme-stats.vercel.app/api?username=XIAXuanzheFrancis&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000000&icon_color=000000&bg_color=00000000&theme=transparent" />
-
-<img align="center" height="137px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=XIAXuanzheFrancis&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=transparent&text_color=000000&bg_color=00000000" />
-
-
 <img align="center"
   src="https://streak-stats.demolab.com/?user=XIAXuanzheFrancis&theme=dark&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=XIAXuanzheFrancis&theme=gruvbox&column=-1&no-frame=true&no-bg=true" />
 
 
 
