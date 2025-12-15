@@ -163,7 +163,6 @@ mindmap
   </tr>
 </table>
 
-<img align="center" src="https://streak-stats.demolab.com/?user=XIAXuanzheFrancis&theme=dark&hide_border=true" />
 
 
 
